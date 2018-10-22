@@ -3,7 +3,7 @@ layout: post
 title:  "Oblivious Inc. Blog Post #1"
 date: 2018-10-22
 author: obliviousinc
-css: graphql
+theme: jekyll-theme-merlot
 comment_id: 1
 ---
 
