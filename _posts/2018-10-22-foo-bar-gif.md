@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Oblivious Inc. Blog Post #1"
 date: 2018-10-22
 author: obliviousinc
