@@ -1,10 +1,10 @@
 ---
-layout: default
 title:  "Oblivious Inc. Blog Post #1"
 date: 2018-10-22
 author: obliviousinc
-theme: jekyll-theme-merlot
 comment_id: 1
+theme: jekyll-theme-merlot
+layout: default
 ---
 
 # Welcome

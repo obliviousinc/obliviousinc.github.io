@@ -12,3 +12,12 @@ git push origin master
 # trigger rebuild if page isn't working
 git commit --allow-empty -m "rebuild"
 git push origin master
+
+# build locally
+https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+
+# merlot theme
+https://github.com/pages-themes/merlot
+
+# posts
+https://jekyllrb.com/docs/posts/
