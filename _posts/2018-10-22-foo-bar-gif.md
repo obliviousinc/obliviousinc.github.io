@@ -1,6 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Oblivious Inc. Blog Post #1"
+date: 2018-10-22
+author: obliviousinc
+css: graphql
+comment_id: 1
 ---
 
 # Welcome
