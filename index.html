@@ -1,11 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Oblivious Inc.</title>
-</head>
-<body>
-  <b>Hello, World.</b>
-  <footer>wtf 2018</footer>
-</body>
-</html>
+---
+layout: default
+---
+
+<div class="blog-index">
+  {% assign index = true %}
+  {% for post in paginator.posts %}
+    {% assign content = post.content %}
+      <article>
+        {% include article.html %}
+      </article>
+  {% endfor %}
+
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path }}" class="previous">Newer</a>
+    {% endif %}
+    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path }}" class="next">Older</a>
+    {% endif %}
+  </div>
+</div>
