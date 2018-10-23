@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Session Experience Tally
 
 | Character | Player  | XP  | Bonus         | Arcane XP |
-| --------- | ------- | --- | ------------- | --------- |
+|:--------- |:------- |:--- |:------------- |:--------- |
 | Sammy     | Drewbie | 5   | +1 (roleplay) | 3         |
 | Timmy     | Gnorlin | 5   | +1 (roleplay) | 3         |
 | Albacore  | Liuv    | 5   | +1 (recap)    | 3         |

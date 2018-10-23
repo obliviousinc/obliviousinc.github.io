@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### Session Experience Tally
 
 | Character | Player  | XP  | Bonus         |
-| --------- | ------- | --- | ------------- |
+|:--------- |:------- |:--- |:------------- |
 | Sammy     | Drewbie | 3   |               |
 | Timmy     | Gnorlin | 3   | +1 (recap)    |
 | Albacore  | Liuv    | 3   |               |
