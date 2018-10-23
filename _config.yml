@@ -1,3 +1,7 @@
 title: Oblivious Inc.
 description: Following the adventures of four hapless dolts.
 theme: jekyll-theme-merlot
+show-downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
