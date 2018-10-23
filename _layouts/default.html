@@ -54,20 +54,20 @@
             {% for post in site.posts %}
                 {% if post.title == page.title %}
                     {% unless forloop.first %}
-                        {% assign prevurl = prev.url %}
-                        {% assign prevtitle = prev.title %}
+                        {% assign nexturl = next.url %}
+                        {% assign nexttitle = next.title %}
                     {% endunless %}
                     {% unless forloop.last %}
-                        {% assign next = document[forloop.index] %}
-                        {% assign nexttitle = next.title %}
-                        {% assign nexturl = next.url %}
+                        {% assign prev = document[forloop.index] %}
+                        {% assign prevtitle = prev.title %}
+                        {% assign prevurl = prev.url %}
                     {% endunless %}
                 {% endif %}
-                {% assign prev = post %}
+                {% assign next = post %}
             {% endfor %}
 
-            {% if prevurl %}<a href="{{ prevurl }}">Previous: {{ prevtitle }}</a>{% endif %}<br />
-            {% if nexturl %}<a href="{{ nexturl }}">Next: {{ nexttitle }}</a>{% endif %}
+            {% if prevurl %}Previous - <a href="{{ prevurl }}">{{ prevtitle }}</a>{% endif %}
+            {% if nexturl %}Next - <a href="{{ nexturl }}">{{ nexttitle }}</a>{% endif %}
 
             {{ content }}
         </section>
