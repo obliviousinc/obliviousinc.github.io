@@ -68,8 +68,8 @@
                 {% assign next = post %}
             {% endfor %}
 
-            {% if prevurl %}Previous - <a href="{{ prevurl }}">{{ prevtitle }}</a><br/>{% endif %}
-            {% if nexturl %}Next - <a href="{{ nexturl }}">{{ nexttitle }}</a>{% endif %}
+            {% if prevurl %}<b>Previous</b> - <a href="{{ prevurl }}">{{ prevtitle }}</a><br/>{% endif %}
+            {% if nexturl %}<b>Next</b> - <a href="{{ nexturl }}">{{ nexttitle }}</a>{% endif %}
         </section>
 
         <footer>
