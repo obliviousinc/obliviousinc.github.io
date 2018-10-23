@@ -38,7 +38,7 @@
         {% if site.show_links %}
         <section id="downloads">
               <span class="inner">
-                <a href="{{ site.links.home_url }}" class="zip"><em>back to</em> INDEX</a><a href="{{ site.links.youtube_url }}" class="tgz"><em>visit</em> YOUTUBE</a>
+                <a href="{{ site.links.home_url }}" class="zip"><em>back to</em> INDEX</a><a href="{{ site.links.playlist_url }}" class="tgz"><em>watch the</em> PLAYLIST</a>
               </span>
         </section>
         {% else %}
@@ -58,7 +58,7 @@
             <span class="ribbon-outer">
               <span class="ribbon-inner">
                 {% if site.github.is_user_page %}
-                  <p>Live sessions can be watched on <a href="{{ site.links.channel_url }}">GitHub</a></p>
+                  <p>Live sessions can be watched on <a href="{{ site.links.youtube_url }}">YouTube</a> and sometimes <a href="{{ site.links.twitch_url }}">Twitch</a></p>
                 {% endif %}
               </span>
               <span class="left-tail"></span>
