@@ -1,17 +1,17 @@
 ---
 title:  "Session 1: Oblivious Inc."
-date: 2018-10-22
+date: 2017-11-12
 author: obliviousinc
 comment_id: 1
 theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 01
+# &#9658; Session 01 &#9664;
 
-| Name     | XP  | Bonus |
-| -------- | --- | ----- |
-| Sammy    | 4   |       |
-| Timmy    | 4   | +1    |
-| Albacore | 4   |       |
-| Dewey    | 4   |       |
+| Character | Player  | XP  | Bonus       |
+| --------- | ------- | --- | ----------- |
+| Sammy     | Drewbie | 4   |             |
+| Timmy     | Gnorlin | 4   | +1 (puzzle) |
+| Albacore  | Liuv    | 4   |             |
+| Dewey     | Sheil   | 4   |             |
