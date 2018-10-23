@@ -1,5 +1,5 @@
 ---
-title:  "Session 6: The Sentinel"
+title: "Session 6: The Sentinel"
 date: 2018-01-01
 author: obliviousinc
 comment_id: 6

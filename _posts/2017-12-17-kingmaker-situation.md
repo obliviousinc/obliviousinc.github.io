@@ -1,5 +1,5 @@
 ---
-title:  "Session 5: Kingmaker Situation"
+title: "Session 5: Kingmaker Situation"
 date: 2017-12-17
 author: obliviousinc
 comment_id: 5

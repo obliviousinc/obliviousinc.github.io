@@ -1,5 +1,5 @@
 ---
-title:  "Session 4: Poppy Snort"
+title: "Session 4: Poppy Snort"
 date: 2017-12-10
 author: obliviousinc
 comment_id: 4

@@ -1,5 +1,5 @@
 ---
-title:  "Session 7: Adustus Sighting"
+title: "Session 7: Adustus Sighting"
 date: 2018-01-07
 author: obliviousinc
 comment_id: 7

@@ -1,5 +1,5 @@
 ---
-title:  "Session 1: Oblivious Inc."
+title: "Session 1: Oblivious Inc."
 date: 2017-11-12
 author: obliviousinc
 comment_id: 1

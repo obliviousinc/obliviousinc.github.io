@@ -1,5 +1,5 @@
 ---
-title:  "Session 3: Greater Sudbury"
+title: "Session 3: Greater Sudbury"
 date: 2017-12-03
 author: obliviousinc
 comment_id: 3

@@ -1,5 +1,5 @@
 ---
-title:  "Session 8: Burt Reynolds"
+title: "Session 8: Burt Reynolds"
 date: 2018-03-04
 author: obliviousinc
 comment_id: 8
