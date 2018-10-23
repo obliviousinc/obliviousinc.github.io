@@ -22,7 +22,6 @@
 </head>
 
 <body>
-<a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
 <div class="shell">
 
     <header>
@@ -39,7 +38,7 @@
     {% if site.show_downloads %}
     <section id="downloads">
           <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>foo</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>bar</em> .TGZ</a>
+            <a href="{{ site.github.home_url }}" class="zip"><em>back to</em> INDEX</a><a href="{{ site.github.youtube_url }}" class="tgz"><em>visit</em> YOUTUBE</a>
           </span>
     </section>
     {% else %}
@@ -49,9 +48,7 @@
     </div>
     {% endif %}
 
-
     <span class="banner-fix"></span>
-
 
     <section id="main_content">
         {{ content }}

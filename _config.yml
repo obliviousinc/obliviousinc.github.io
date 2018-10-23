@@ -3,5 +3,5 @@ description: Following the adventures of four hapless dolts.
 theme: jekyll-theme-merlot
 show_downloads: true
 github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+  home_url: https://obliviousinc.github.io
+  youtube_url: https://www.youtube.com/watch?v=llktaUTbWaE&list=PLElpeD07ZF8zov__m_c46Eft1CssE6Kig
