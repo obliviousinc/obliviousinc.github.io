@@ -51,7 +51,7 @@
         <span class="banner-fix"></span>
 
         <section id="main_content">
-            {% for post in site.collections.posts %}
+            {% for post in site.posts %}
                 {% if post.title == page.title %}
                     {% unless forloop.first %}
                         {% assign prevurl = prev.url %}
@@ -66,7 +66,7 @@
                 {% assign prev = post %}
             {% endfor %}
 
-            {% if prevurl %}<a href="{{ prevurl }}">Previous: {{ prevtitle l}}</a>{% endif %}<br />
+            {% if prevurl %}<a href="{{ prevurl }}">Previous: {{ prevtitle }}</a>{% endif %}<br />
             {% if nexturl %}<a href="{{ nexturl }}">Next: {{ nexttitle }}</a>{% endif %}
 
             {{ content }}
