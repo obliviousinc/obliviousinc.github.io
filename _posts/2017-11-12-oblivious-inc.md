@@ -9,7 +9,42 @@ layout: default
 
 # Session 01: Oblivious Inc.
 
-#### Summary
+##### First, some notes about the game:
+
+In most RPG campaigns, the first session is awkward and feels silly and artificial; you all "meet at a tavern" and immediately band together and go on Adventure #1.  We're going to skip that.  Our characters already know each other, and they're part of a club:  a *Paranormal Geek-Out Club* full of Huge Nerds.  They may all come from different walks of life, they may all have different jobs and hobbies most of the time, but they've found each other through shared online interests: they are **Oblivious Incorporated**.
+
+They like to get together every month or two and visit a haunted house, or a famous Satanic bookstore, or an abandoned mental hospital, or the scene of a Civil War battle... looking for creepy clues and puzzles, researching occultic nonsense, or just straight up using their infrared cameras and trying to film ghosts.
+
+The setting is Madison, Wisconsin (and the region surrounding it) in modern day.  No dungeons, dragons, or cyborgs.  The RPG system is the "New" [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness) (often abbreviated [nWoD](https://www.google.com/search?q=nwod)).  The players have never roleplayed before, and the GM has never run a WoD game before.  It should go flawlessly.
+
+##### A quick introduction to the characters:
+
+###### Sammy Willim
+
+**Player:**  Drewbie
+**Concept:**  Unrepetant Moron
+**Biography:**  asdf  
+
+###### Timothy Esperson
+
+**Player:**  Gnorlin
+**Concept:**  Timid IT Guy
+**Biography:**  asdf
+
+###### Dewey Dullar
+
+**Player:**  Sheil
+**Concept:**  True Believer (but can't prove it)
+**Biography:**  asdf
+
+###### Albacore Masterson
+
+**Player:**  Liuv
+**Concept:**  Skeptical Observationalist
+**Biography:**  asdf
+
+#### Session Summary
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Fluke](/assets/sm/fluke1.jpg)
