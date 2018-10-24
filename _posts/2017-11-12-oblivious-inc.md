@@ -17,31 +17,40 @@ They like to get together every month or two and visit a haunted house, or a fam
 
 The setting is Madison, Wisconsin (and the region surrounding it) in modern day.  No dungeons, dragons, or cyborgs.  The RPG system is the "New" [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness) (often abbreviated [nWoD](https://www.google.com/search?q=nwod)).  The players have never roleplayed before, and the GM has never run a WoD game before.  It should go flawlessly.
 
+# A quick introduction to the characters:
+## A quick introduction to the characters:
+### A quick introduction to the characters:
+#### A quick introduction to the characters:
 ##### A quick introduction to the characters:
+###### A quick introduction to the characters:
 
 ###### Sammy Willim
 
+**Concept:**  Unrepentant Moron  
 **Player:**  Drewbie  
-**Concept:**  Unrepetant Moron  
-**Biography:**  asdf  
+**Biography:**
+> pretty dumb, collects social security due to “disability,” drives (and lives in) a trailer he’s converted to run on Denny’s grease
 
 ###### Timothy Esperson
 
-**Player:**  Gnorlin  
 **Concept:**  Timid IT Guy  
-**Biography:**  asdf  
+**Player:**  Gnorlin  
+**Biography:**
+> white hat hacker, graduated top of class at Indianhead Technical College (in Rice Lake), lives in Kenosha
 
 ###### Dewey Dullar
 
-**Player:**  Sheil  
 **Concept:**  True Believer (but can't prove it)  
-**Biography:**  asdf  
+**Player:**  Sheil  
+**Biography:**
+> sold a chicken farm, now owns a hobby farm and a nice truck in rural southern Wisconsin
 
 ###### Albacore Masterson
 
-**Player:**  Liuv  
 **Concept:**  Skeptical Observationalist  
-**Biography:**  asdf  
+**Player:**  Liuv  
+**Biography:**
+> librarian’s assistant in Madison, hates the dark, hates people, likes proving everyone wrong
 
 #### Session Summary
 
