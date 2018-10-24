@@ -24,28 +24,28 @@ The setting is Madison, Wisconsin (and the region surrounding it) in modern day.
 **Concept:**  Unrepentant Moron  
 **Player:**  Drewbie  
 **Biography:**
-> pretty dumb, collects social security due to “disability,” drives (and lives in) a trailer he’s converted to run on Denny’s grease
+> Pretty dumb, collects social security due to “disability,” drives (and lives in) a trailer he’s converted to run on Denny’s grease.
 
 ##### Timothy Esperson
 
 **Concept:**  Timid IT Guy  
 **Player:**  Gnorlin  
 **Biography:**
-> white hat hacker, graduated top of class at Indianhead Technical College (in Rice Lake), lives in Kenosha
+> White hat hacker, graduated top of class at Indianhead Technical College (in Rice Lake), lives in Kenosha.
 
 ##### Dewey Dullar
 
 **Concept:**  True Believer (but can't prove it)  
 **Player:**  Sheil  
 **Biography:**
-> sold a chicken farm, now owns a hobby farm and a nice truck in rural southern Wisconsin
+> Sold a chicken farm, now owns a hobby farm and a nice truck in rural southern Wisconsin.
 
 ##### Albacore Masterson
 
 **Concept:**  Skeptical Observationalist  
 **Player:**  Liuv  
 **Biography:**
-> librarian’s assistant in Madison, hates the dark, hates people, likes proving everyone wrong
+> Librarian’s assistant in Madison, hates the dark, hates people, likes proving everyone wrong.
 
 #### Session Summary
 
