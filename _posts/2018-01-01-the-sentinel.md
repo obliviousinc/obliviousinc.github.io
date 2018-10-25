@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 06: The Sentinel
+# Session6: The Sentinel
 
 #### Session Summary
 

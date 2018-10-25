@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 01: Oblivious Inc.
+# Session 1: Oblivious Inc.
 
 ![Ropes](/assets/img/hdr/ropes.jpg)
 

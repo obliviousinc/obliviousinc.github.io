@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 05: Kingmaker Situation
+# Session5: Kingmaker Situation
 
 #### Session Summary
 

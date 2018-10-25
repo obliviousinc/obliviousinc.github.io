@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 07: Adustus Sighting
+# Session7: Adustus Sighting
 
 #### Session Summary
 

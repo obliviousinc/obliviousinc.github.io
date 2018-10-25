@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 00: Why Nothing Works
+# Session 0: Why Nothing Works
 
 > Quote
 ###### Heading 6

@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 04: Poppy Snort
+# Session4: Poppy Snort
 
 #### Session Summary
 

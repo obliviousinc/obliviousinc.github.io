@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 08: Burt Reynolds
+# Session8: Burt Reynolds
 
 #### Session Summary
 

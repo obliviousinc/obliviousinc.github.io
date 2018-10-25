@@ -7,7 +7,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session 09: Mummy Demo
+# Session9: Mummy Demo
 
 #### Session Summary
 
