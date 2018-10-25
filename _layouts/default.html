@@ -71,12 +71,15 @@
             {% if nexturl %}
             <div style="float:right">
                 <strong>Next:</strong> <a href="{{ nexturl }}">{{ nexttitle }}</a>
-            </div><br/>
+            </div>
             {% endif %}
             {% if prevurl %}
             <div style="float:left">
                 <strong>Previous:</strong> <a href="{{ prevurl }}">{{ prevtitle }}</a>
-            </div><br/>
+            </div>
+            {% endif %}
+            {% if nexturl || prevurl %}
+            <br/>
             {% endif %}
         </section>
 
