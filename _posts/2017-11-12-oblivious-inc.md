@@ -19,7 +19,7 @@ They like to get together every month or two and visit a haunted house, or a fam
 
 The setting is Madison, Wisconsin (and the region surrounding it) in modern day.  No dungeons, dragons, or cyborgs.  The RPG system is the "New" [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness) (often abbreviated [nWoD](https://www.google.com/search?q=nwod)).  The players have never roleplayed before, and the GM has never run a WoD game before.  It should go flawlessly.
 
-### A quick introduction to the characters:
+### Our heroes:
 
 #### Sammy Willim
 
