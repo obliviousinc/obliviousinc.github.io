@@ -1,5 +1,6 @@
 (function($) {
   $.fn.headdumb = function() {
+    // replace the far-too-clever-for-my-good "headsmart" included in the merlot theme (mucks with header levels)
     var contentElement = $(this)
     setHeaders()
     function setHeaders() {
