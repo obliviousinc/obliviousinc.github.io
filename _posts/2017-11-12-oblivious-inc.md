@@ -70,13 +70,19 @@ In the past year, Oblivious Inc. has been all around the Midwest:
 * [Bachelor's Grove Cemetary](https://www.prairieghosts.com/bachgrov.html) in Midlothian, IL
 * [Ohio State Reformatory](http://www.deadohio.com/mansfieldreformatory.htm) in Mansfield, OH
 
-The last time anyone saw Allison was six weeks ago, on the Bachelor's Grove trip.  The Denny's breakfast was especially greasy in the morning, certain more credulous members of the group swear they saw the "White Lady" in the evening, and a good time was had by all.
+The last time anyone saw or heard from Allison was six weeks ago, on the Bachelor's Grove trip.  Their Denny's breakfast was especially greasy in the morning, certain more credulous members of the group swear they saw the "White Lady" in the evening, and a good time was had by all.
 
 The trip to Ohio had already been planned, so when Allison couldn't make it, the group went on ahead without her.
+
+A month has passed since Ohio, and the last adventure Allison had a hand in planning before her absence comes now:  the **Gorman Funeral Home** (*"We Grieve With You"*), an abandoned funeral parlor in a blighted neighborhood of Detroit called [Delray](https://detroit.curbed.com/2018/5/3/17314922/the-origins-demise-delray).
+
+Surprisingly enough, as the group settles in for their traditional Grand Slam (Michigan edition), Allison makes an appearance.
 
 ![Allison](/assets/img/npc/sm/allison2.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+![Allison](/assets/img/npc/sm/allison4.jpg)
 
 ## Session Experience Tally
 
