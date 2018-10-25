@@ -1,5 +1,6 @@
 ---
 title: "Session 8: Burt Reynolds"
+subtitle: "Burt Reynolds"
 date: 2018-03-04
 author: obliviousinc
 comment_id: 8
@@ -7,7 +8,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session8: Burt Reynolds
+# Session 8: Burt Reynolds
 
 #### Session Summary
 

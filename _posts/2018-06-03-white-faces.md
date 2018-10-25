@@ -1,5 +1,6 @@
 ---
 title: "Session 15: White Faces"
+subtitle: "White Faces"
 date: 2018-06-03
 author: obliviousinc
 comment_id: 15

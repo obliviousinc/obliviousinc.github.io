@@ -1,5 +1,6 @@
 ---
 title: "Session 14: Daydream Inc."
+subtitle: "Daydream Inc."
 date: 2018-05-20
 author: obliviousinc
 comment_id: 14

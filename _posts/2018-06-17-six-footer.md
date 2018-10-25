@@ -1,5 +1,6 @@
 ---
 title: "Session 16: Six Footer"
+subtitle: "Six Footer"
 date: 2018-06-17
 author: obliviousinc
 comment_id: 16

@@ -57,25 +57,25 @@
                 {% if post.title == page.title %}
                     {% unless forloop.first %}
                         {% assign nexturl = next.url %}
-                        {% assign nexttitle = next.title %}
+                        {% assign nexttitle = next.subtitle %}
                     {% endunless %}
                     {% unless forloop.last %}
                         {% assign prev = site.posts[forloop.index] %}
-                        {% assign prevtitle = prev.title %}
+                        {% assign prevtitle = prev.subtitle %}
                         {% assign prevurl = prev.url %}
                     {% endunless %}
                 {% endif %}
                 {% assign next = post %}
             {% endfor %}
 
-            {% if prevurl %}
-            <div style="float:left">
-                <strong>Previous</strong> &#9866; <a href="{{ prevurl }}">{{ prevtitle }}</a>
-            </div><br/>
-            {% endif %}
             {% if nexturl %}
             <div style="float:right">
-                <strong>Next</strong> &#9866; <a href="{{ nexturl }}">{{ nexttitle }}</a>
+                <strong>Next:</strong> <a href="{{ nexturl }}">{{ nexttitle }}</a>
+            </div><br/>
+            {% endif %}
+            {% if prevurl %}
+            <div style="float:left">
+                <strong>Previous:</strong> <a href="{{ prevurl }}">{{ prevtitle }}</a>
             </div><br/>
             {% endif %}
         </section>

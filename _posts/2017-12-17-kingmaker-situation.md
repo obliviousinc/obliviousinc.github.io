@@ -1,5 +1,6 @@
 ---
 title: "Session 5: Kingmaker Situation"
+subtitle: "Kingmaker Situation"
 date: 2017-12-17
 author: obliviousinc
 comment_id: 5
@@ -7,7 +8,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session5: Kingmaker Situation
+# Session 5: Kingmaker Situation
 
 #### Session Summary
 

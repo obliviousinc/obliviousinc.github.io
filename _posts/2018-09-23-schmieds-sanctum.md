@@ -1,5 +1,6 @@
 ---
 title: "Session 20: Schmied's Sanctum"
+subtitle: "Schmied's Sanctum"
 date: 2018-09-23
 author: obliviousinc
 comment_id: 20

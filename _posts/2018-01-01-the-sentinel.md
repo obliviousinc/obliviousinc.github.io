@@ -1,5 +1,6 @@
 ---
 title: "Session 6: The Sentinel"
+subtitle: "The Sentinel"
 date: 2018-01-01
 author: obliviousinc
 comment_id: 6
@@ -7,7 +8,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session6: The Sentinel
+# Session 6: The Sentinel
 
 #### Session Summary
 

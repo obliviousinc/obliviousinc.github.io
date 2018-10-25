@@ -1,5 +1,6 @@
 ---
 title: "Session 7: Adustus Sighting"
+subtitle: "Adustus Sighting"
 date: 2018-01-07
 author: obliviousinc
 comment_id: 7
@@ -7,7 +8,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session7: Adustus Sighting
+# Session 7: Adustus Sighting
 
 #### Session Summary
 

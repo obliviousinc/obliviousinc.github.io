@@ -1,5 +1,6 @@
 ---
 title: "Session 12: Human Caterpillar"
+subtitle: "Human Caterpillar"
 date: 2018-04-22
 author: obliviousinc
 comment_id: 12

@@ -1,5 +1,6 @@
 ---
 title: "Session 9: Mummy Demo"
+subtitle: "Mummy Demo"
 date: 2018-03-11
 author: obliviousinc
 comment_id: 9
@@ -7,7 +8,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session9: Mummy Demo
+# Session 9: Mummy Demo
 
 #### Session Summary
 

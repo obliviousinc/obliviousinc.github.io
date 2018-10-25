@@ -1,5 +1,6 @@
 ---
 title: "Session 4: Poppy Snort"
+subtitle: "Poppy Snort"
 date: 2017-12-10
 author: obliviousinc
 comment_id: 4
@@ -7,7 +8,7 @@ theme: jekyll-theme-merlot
 layout: default
 ---
 
-# Session4: Poppy Snort
+# Session 4: Poppy Snort
 
 #### Session Summary
 

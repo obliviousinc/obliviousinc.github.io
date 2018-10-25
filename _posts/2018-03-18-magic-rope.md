@@ -1,5 +1,6 @@
 ---
 title: "Session 10: Magic Rope"
+subtitle: "Magic Rope"
 date: 2018-03-18
 author: obliviousinc
 comment_id: 10

@@ -1,5 +1,6 @@
 ---
 title: "Session 19: Towering Conglomeration"
+subtitle: "Towering Conglomeration"
 date: 2018-09-16
 author: obliviousinc
 comment_id: 19
