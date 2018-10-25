@@ -49,11 +49,34 @@ The setting is Madison, Wisconsin (and the region surrounding it) in modern day.
 **Biography:**
 > Librarian’s assistant in Madison, hates the dark, hates people, likes proving everyone wrong.
 
+#### Allison Keene
+
+**Concept:**  Oblivious Inc. Den Mother  
+**Player:**  n/a  
+**Biography:**
+> Manages inventory for six hospitals in the Milwaukee area.  Loves Settlers of Catan, hates the DCEU.  Bit of a kleptomaniac, takes Xanax for social anxiety.
+
+![Allison](/assets/img/npc/sm/allison1.jpg)
+
 ## Session Summary
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This "club" consists of mystery addicts and treasure hunters.  They spend an inordinate amount of time looking for ghosts and researching the occult.  Allison tends to be the dynamo at the group's center when it comes to picking out places to visit, organizing trips, etc.  It's the one "Den Mother" activity she actually nails pretty well.
 
-![Fluke](/assets/img/npc/fluke4.jpg)
+In the past year, Oblivious Inc. has been all around the Midwest:
+
+* [Lemp Mansion](https://the-line-up.com/lemp-family-mansion) in St. Louis, MO
+* [Archer Avenue](https://www.ranker.com/list/most-haunted-road-archer-avenue/sabrina-ithal) in Willow Springs, IL
+* [Bullock Hotel](http://www.hauntedhouses.com/states/sd/bullock_hotel.htm) in Deadwood, SD
+* [Bachelor's Grove Cemetary](https://www.prairieghosts.com/bachgrov.html) in Midlothian, IL
+* [Ohio State Reformatory](http://www.deadohio.com/mansfieldreformatory.htm) in Mansfield, OH
+
+The last time anyone saw Allison was six weeks ago, on the Bachelor's Grove trip.  The Denny's breakfast was especially greasy in the morning, certain more credulous members of the group swear they saw the "White Lady" in the evening, and a good time was had by all.
+
+The trip to Ohio had already been planned, so when Allison couldn't make it, the group went on ahead without her.
+
+![Allison](/assets/img/npc/sm/allison2.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Session Experience Tally
 
