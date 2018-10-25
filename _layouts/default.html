@@ -68,18 +68,21 @@
                 {% assign next = post %}
             {% endfor %}
 
+            {% if nexturl || prevurl %}
+            <div>
+            {% endif %}
             {% if nexturl %}
-            <div style="float:right">
-                <strong>Next:</strong> <a href="{{ nexturl }}">{{ nexttitle }}</a>
-            </div>
+                <div style="float:right">
+                    <strong>Next:</strong> <a href="{{ nexturl }}">{{ nexttitle }}</a>
+                </div>
             {% endif %}
             {% if prevurl %}
-            <div style="float:left">
-                <strong>Previous:</strong> <a href="{{ prevurl }}">{{ prevtitle }}</a>
-            </div>
+                <div style="float:left">
+                    <strong>Previous:</strong> <a href="{{ prevurl }}">{{ prevtitle }}</a>
+                </div>
             {% endif %}
             {% if nexturl || prevurl %}
-            <br/>
+            </div>
             {% endif %}
         </section>
 
