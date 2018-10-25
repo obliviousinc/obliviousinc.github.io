@@ -9,7 +9,7 @@ layout: default
 
 # Session 01: Oblivious Inc.
 
-## Some notes about the game:
+### Some notes about the game:
 
 In most RPG campaigns, the first session is awkward and feels silly and artificial; you all "meet at a tavern" and immediately band together and go on Adventure #1.  We're going to skip that.  Our characters already know each other, and they're part of a club:  a *Paranormal Geek-Out Club* full of Huge Nerds.  They may all come from different walks of life, they may all have different jobs and hobbies most of the time, but they've found each other through shared online interests: they are **Oblivious Incorporated**.
 
@@ -17,43 +17,43 @@ They like to get together every month or two and visit a haunted house, or a fam
 
 The setting is Madison, Wisconsin (and the region surrounding it) in modern day.  No dungeons, dragons, or cyborgs.  The RPG system is the "New" [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness) (often abbreviated [nWoD](https://www.google.com/search?q=nwod)).  The players have never roleplayed before, and the GM has never run a WoD game before.  It should go flawlessly.
 
-## A quick introduction to the characters:
+### A quick introduction to the characters:
 
-### Sammy Willim
+#### Sammy Willim
 
 **Concept:**  Unrepentant Moron  
 **Player:**  Drewbie  
 **Biography:**
 > Pretty dumb, collects social security due to “disability,” drives (and lives in) a trailer he’s converted to run on Denny’s grease.
 
-### Timothy Esperson
+#### Timothy Esperson
 
 **Concept:**  Timid IT Guy  
 **Player:**  Gnorlin  
 **Biography:**
 > White hat hacker, graduated top of class at Indianhead Technical College (in Rice Lake), lives in Kenosha.
 
-### Dewey Dullar
+#### Dewey Dullar
 
 **Concept:**  True Believer (but can't prove it)  
 **Player:**  Sheil  
 **Biography:**
 > Sold a chicken farm, now owns a hobby farm and a nice truck in rural southern Wisconsin.
 
-### Albacore Masterson
+#### Albacore Masterson
 
 **Concept:**  Skeptical Observationalist  
 **Player:**  Liuv  
 **Biography:**
 > Librarian’s assistant in Madison, hates the dark, hates people, likes proving everyone wrong.
 
-## Session Summary
+### Session Summary
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ![Fluke](/assets/sm/fluke1.jpg)
 
-## Session Experience Tally
+### Session Experience Tally
 
 | Character | Player  | XP  | Bonus       |
 |:--------- |:------- |:--- |:----------- |
