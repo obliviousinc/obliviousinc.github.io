@@ -9,6 +9,8 @@ layout: default
 
 # Session 01: Oblivious Inc.
 
+![Ropes](/assets/img/hdr/ropes.jpg)
+
 ### Some notes about the game:
 
 In most RPG campaigns, the first session is awkward and feels silly and artificial; you all "meet at a tavern" and immediately band together and go on Adventure #1.  We're going to skip that.  Our characters already know each other, and they're part of a club:  a *Paranormal Geek-Out Club* full of Huge Nerds.  They may all come from different walks of life, they may all have different jobs and hobbies most of the time, but they've found each other through shared online interests: they are **Oblivious Incorporated**.
