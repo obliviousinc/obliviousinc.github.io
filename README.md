@@ -19,5 +19,9 @@ https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-
 # merlot theme
 https://github.com/pages-themes/merlot
 
+# examples
+https://raw.githubusercontent.com/pages-themes/merlot/master/index.md
+https://pages-themes.github.io/merlot/
+
 # posts
 https://jekyllrb.com/docs/posts/
