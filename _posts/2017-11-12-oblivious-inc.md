@@ -87,9 +87,17 @@ At first, the interior of the home is mundane.  As the group pushes their way fu
 
 At some point, Allison wanders off on her own.  The group finds her in the basement, standing waist-deep in dark, salty water.  She's staring toward the middle of the room, and a slow current is causing various bits of detritus to circle gently.  Something pale and rubbery stirs beneath the surface, moving against the current;  as Sammy reaches to poke at it, it submerges, briefly tangling with Tim's legs before disappearing.
 
-Upstairs in the hallway, the rest of the group is suddenly confronted with an entity.
+Upstairs in the hallway, the rest of the group notices something:
+
+![Hallway](/assets/img/hallsuit.jpg)
+
+*That* wasn't there a minute ago.
+
+After a scuffle, the floating entity collapses and bleeds enough salt water that the group realizes they've been fighting with a hazard suit full of basement scum.  In the confusion, Allison disappears once more, and this time it seems to be more permanent...
 
 ![Allison](/assets/img/npc/sm/allison4.jpg)
+
+> There's not much of me left in here.
 
 * * *
 
