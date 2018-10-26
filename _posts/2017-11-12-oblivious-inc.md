@@ -61,7 +61,7 @@ The setting is Madison, Wisconsin (and the region surrounding it) in modern day.
 
 ## Session Summary
 
-This "club" consists of mystery addicts and treasure hunters.  They spend a frankly embarrassing amount of time looking for ghosts and speculating about werewolves.  Allison tends to be the dynamo at the group's center when it comes to picking out places to visit, organizing trips, etc.  It's the one "Den Mother" activity she actually nails pretty well.
+This "club" consists of mystery addicts and treasure hunters.  They spend a frankly embarrassing amount of time looking for spirits and speculating about werewolves.  Allison tends to be the dynamo at the group's center when it comes to picking out places to visit, organizing trips, etc.  It's the one "Den Mother" activity she actually nails pretty well.
 
 In the past year, Oblivious Inc. has been all around the Midwest:
 
@@ -93,7 +93,7 @@ Upstairs in the hallway, the rest of the group notices something:
 
 *That* wasn't there a minute ago.
 
-After a scuffle, the floating entity collapses and bleeds enough salt water that the group realizes they've been fighting with a hazard suit full of basement scum.  In the confusion, Allison disappears once more, and this time it seems to be more permanent...
+After a scuffle, the floating entity collapses and bleeds enough salt water that the group realizes they've been fighting with a hazard suit full of basement scum.  In the confusion, Allison disappears once again, and this time it seems to be more permanent.
 
 ![Allison](/assets/img/npc/sm/allison4.jpg)
 
