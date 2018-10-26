@@ -14,11 +14,11 @@ layout: default
 
 ### Some notes about the game:
 
-In most RPG campaigns, the first session is awkward and feels silly and artificial; you all "meet at a tavern" and immediately band together and go on Adventure #1.  We're going to skip that.  Our characters already know each other, and they're part of a club:  a *Paranormal Geek-Out Club* full of Huge Nerds.  They may all come from different walks of life, they may all have different jobs and hobbies most of the time, but they've found each other through shared online interests: they are **Oblivious Incorporated**.
+In most RPG campaigns, the first session is awkward and feels silly and artificial; you all "meet at a tavern" and immediately band together and go on Adventure #1.  We'll be awkward for completely different reasons.  Our characters already know each other, and they're part of a club:  **Oblivious Incorporated**, a *Paranormal Geek-Out Club* full of Huge Nerds.
 
 They like to get together every month or two and visit a haunted house, or a famous Satanic bookstore, or an abandoned mental hospital, or the scene of a Civil War battle... looking for creepy clues and puzzles, researching occultic nonsense, or just straight up using their infrared cameras and trying to film ghosts.
 
-The setting is Madison, Wisconsin (and the region surrounding it) in modern day.  No dungeons, dragons, or cyborgs.  The RPG system is the "New" [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness) (often abbreviated [nWoD](https://www.google.com/search?q=nwod)).  The players have never roleplayed before, and the GM has never run a WoD game before.  It should go flawlessly.
+The setting is Madison, Wisconsin (and the region surrounding it) in modern day.  The RPG system is the "New" [World of Darkness](http://whitewolf.wikia.com/wiki/World_of_Darkness) (often abbreviated [nWoD](https://www.google.com/search?q=nwod)).  The players have never roleplayed before, and the GM has never run a WoD game before.  It should go great.
 
 ### Our heroes:
 
@@ -61,7 +61,7 @@ The setting is Madison, Wisconsin (and the region surrounding it) in modern day.
 
 ## Session Summary
 
-This "club" consists of mystery addicts and treasure hunters.  They spend an inordinate amount of time looking for ghosts and researching the occult.  Allison tends to be the dynamo at the group's center when it comes to picking out places to visit, organizing trips, etc.  It's the one "Den Mother" activity she actually nails pretty well.
+This "club" consists of mystery addicts and treasure hunters.  They spend a frankly embarrassing amount of time looking for ghosts and speculating about werewolves.  Allison tends to be the dynamo at the group's center when it comes to picking out places to visit, organizing trips, etc.  It's the one "Den Mother" activity she actually nails pretty well.
 
 In the past year, Oblivious Inc. has been all around the Midwest:
 
@@ -75,13 +75,19 @@ The last time anyone saw or heard from Allison was six weeks ago, on the Bachelo
 
 The trip to Ohio had already been planned, so when Allison couldn't make it, the group went on ahead without her.
 
-A month has passed since Ohio, and the last adventure Allison had a hand in planning before her absence comes now:  the **Gorman Funeral Home** (*"We Grieve With You"*), an abandoned funeral parlor in a blighted neighborhood of Detroit called [Delray](https://detroit.curbed.com/2018/5/3/17314922/the-origins-demise-delray).
+Now, a month has passed since Ohio, and it's time for the last adventure Allison had a hand in planning before her absence:  **Gorman Funeral Home** (*"We Grieve With You"*), an abandoned funeral parlor in a blighted neighborhood of Detroit called [Delray](https://detroit.curbed.com/2018/5/3/17314922/the-origins-demise-delray).
 
 Surprisingly enough, as the group settles in for their traditional Grand Slam (Michigan edition), Allison makes an appearance.
 
 ![Allison](/assets/img/npc/sm/allison2.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The outing begins innocuously enough.  Allison alternates between excitement and blank-faced catatonia.  The group makes their way to the funeral home, and finds it bizarrely devoid of the graffiti which graces every other surface for blocks around.
+
+At first, the interior of the home is mundane.  As the group pushes their way further in, they're confronted with more and more abnormalities:  an old box full of pictures which includes, unsettlingly, a few dead relatives of Sammy;  a colony of ants forming shapes on the dirty floor, holding Albacore utterly in its thrall;  a misspelled word that seems to worm its way into the minds of nearly everyone present.
+
+At some point, Allison wanders off on her own.  The group finds her in the basement, standing waist-deep in dark, salty water.  She's staring toward the middle of the room, and a slow current is causing various bits of detritus to circle gently.  Something pale and rubbery stirs beneath the surface, moving against the current;  as Sammy reaches to poke at it, it submerges, briefly tangling with Tim's legs before disappearing.
+
+Upstairs in the hallway, the rest of the group is suddenly confronted with an entity.
 
 ![Allison](/assets/img/npc/sm/allison4.jpg)
 
