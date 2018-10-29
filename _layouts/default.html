@@ -56,13 +56,13 @@
             {% for post in site.posts %}
                 {% if post.title == page.title %}
                     {% unless forloop.first %}
-                        {% assign nexturl = next.url %}
-                        {% assign nexttitle = next.subtitle %}
-                    {% endunless %}
-                    {% unless forloop.last %}
                         {% assign prev = site.posts[forloop.index] %}
                         {% assign prevtitle = prev.subtitle %}
                         {% assign prevurl = prev.url %}
+                    {% endunless %}
+                    {% unless forloop.last %}
+                        {% assign nexturl = next.url %}
+                        {% assign nexttitle = next.subtitle %}
                     {% endunless %}
                 {% endif %}
                 {% assign next = post %}
