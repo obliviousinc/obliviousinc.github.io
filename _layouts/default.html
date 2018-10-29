@@ -55,11 +55,11 @@
 
             {% for post in site.posts %}
                 {% if post.title == page.title %}
-                    {% unless forloop.last %}
+                    {% unless forloop.first %}
                         {% assign nexturl = next.url %}
                         {% assign nexttitle = next.subtitle %}
                     {% endunless %}
-                    {% unless forloop.first %}
+                    {% unless forloop.last %}
                         {% assign prev = site.posts[forloop.index] %}
                         {% assign prevtitle = prev.subtitle %}
                         {% assign prevurl = prev.url %}
