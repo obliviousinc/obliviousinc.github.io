@@ -54,6 +54,7 @@
             {{ content }}
 
             {% for post in site.posts %}
+                <div>{{ post.title }}, {{ forloop.index }}</div>
                 {% if post.title == page.title %}
                     {% unless forloop.last %}
                         {% assign nexturl = next.url %}
