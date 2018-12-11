@@ -10,6 +10,8 @@ layout: default
 
 # Session 3: Greater Sudbury
 
+![Suit](/assets/img/hdr/hallsuit.jpg)
+
 ## Session Summary
 
 During what promises to be a drive of unknown length, the group takes their chance to interrogate Fluke.
