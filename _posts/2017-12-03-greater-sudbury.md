@@ -27,6 +27,7 @@ She's apparently part of an organization that tries to keep magic *secret*, and 
 * There are different types of magic, and she's following Adustus by watching something called his "nimbus."
 * *No,* this is *not* Harry Potter. 
 * The material world is afflicted with a curse that forces mortals ("sleepers") to utterly disbelieve things like magic; some mortals ("sleepwalkers") are less affected than others, and Fluke is trying to determine who in the group can handle more exposure... and who can't.
+* The "shared hallucinations" the group experienced in the Gorman Funeral Home were probably Adustus testing the bounds of his reduced state.  Some of the effects might not have been hallucinations at all.
 * For the last goddamn time, no I'm not an "auror" and *this is not Harry Potter.*
 
 Fluke's best guess is that Adustus has severed Allison's soul and taken up residence in her body, forcing her mind to cower in the dark corners of consciousness.  She will eventually lose her last spark of *self* in this condition, but splitting a soul releases a tremendous amount of energy, so Adustus won't have discarded it.  If it can be recovered in time, so can Allison.
