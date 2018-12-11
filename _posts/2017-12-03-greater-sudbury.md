@@ -32,7 +32,7 @@ She's apparently part of an organization that tries to keep magic *secret*, and 
 
 Fluke's best guess is that Adustus has severed Allison's soul and taken up residence in her body, forcing her mind to cower in the dark corners of consciousness.  She will eventually lose her last spark of *self* in this condition, but splitting a soul releases a tremendous amount of energy, so Adustus won't have discarded it.  If it can be recovered in time, so can Allison.
 
-Mercifully, the drive does eventually end, but not before passing through all of Wisconsin, much of Michigan, and well into Ontario.  The final destination, as least as far as Fluke can tell right now:  [Sudbury](https://www.google.com/maps/place/Sudbury,+ON,+Canada/@46.5456009,-81.1336316,11z).
+Mercifully, the drive does eventually end, but not before passing through all of Wisconsin, much of Michigan, and well into Ontario.  The final destination, as least as far as Fluke can tell right now:  [Sudbury](https://www.google.com/maps/place/Sudbury,+ON,+Canada/).
 
 From here, the group splits up.  Fluke recovers some energy after her long drive by camping out in a Tim Hortons, while Dewey (who was driving the other car) takes a long nap.
 
