@@ -16,7 +16,7 @@ layout: default
 
 Preparations having been made, Fluke suggests that the group skip town immediately, traveling north to Capreol in the night.  The trail she's been following turns that direction, and something about Sudbury is making her antsy and eager to move on.
 
-On the way out of the city, Dewey spots the distinctive red and blue of police lights in his rear view mirror.  After some discussion, he responsibly applies the brakes and braces himself for a conversation about illegal border crossings.  However, instead of a police car the group sees a rusted-out minivan rumble past.  It grinds to a halt in front of Dewey's pickup, where it can block them from continuing down the road.  Three angry gentlemen emerge, and are recognizably some of the weirdos from the hunter bar, La Veillée.
+On the way out of the city, Dewey spots the distinctive red and blue of police lights in his rear view mirror.  After some discussion, he responsibly applies the brakes and braces himself for a conversation about illegal border crossings.  However, instead of a police car, the group sees a rusted-out minivan rumble past.  It grinds to a halt in front of Dewey's pickup, where it can block them from continuing down the road.  Three angry gentlemen emerge, and are recognizably some of the weirdos from the hunter bar, La Veillée.
 
 Fluke seems uncomfortably out of sorts, and nobody else is in the mood for a fight, so Dewey uses some of his driving skills to escape while Sammy shoots out not one, but *two* of the van's tires.
 
@@ -40,7 +40,7 @@ Fluke shouts in alarm, but before anyone can react appropriately, our heroes are
 
 #### Timmy
 
-Tim finds himself seated on the ground, inexplicably, with his laptop out and ready to go.  His fingers are poised over the keyboard as if he's about to chop out a line of C++, but he doesn't remember what he was doing.  The code on screen looks like an elegant representation of a human:  id, ego, an array of emotions, the ability to belch.  It's not abstract, though:  it's an implementation of someone specific.  Timmy realizes he's looking at *his own source code.*
+Tim finds himself seated on the ground, inexplicably, with his laptop out and ready to go.  His fingers are poised over the keyboard as if he's about to chop out a line of C++, but he doesn't remember what he was doing.  The code on screen looks like an elegant representation of a human:  id, ego, an array of emotions, the ability to belch.  It's not abstract, though... it's an implementation of someone specific.  Timmy realizes he's looking at *his own source code.*
 
 Scrambling to browse through the codebase and find out what else is there, he finds himself splitting his mind into pieces for more efficient multi-tasking.  He locates the implementations of everyone present:  Dewey, Sammy (written in Visual Basic), Albacore, even Fluke.  And someone named "Kingmaker."  Fluke and Kingmaker are too complex to understand, but the other four are comparatively simple.  Timmy decides to try refactoring himself.
 
@@ -60,9 +60,9 @@ The man approaches, quizzing Albacore on the nature of skepticism and disbelief.
 
 Time stops.  Sammy feels an itch *inside* his head.  Something is swirling around him, but... as if he had his eyeballs tied behind his back, he's unable to see what it is.  Until he opens his third eye, that is.  Using this new sense to take it all in, Sammy observes his surroundings; currents rush and flow like smoky trails of Star Trek gunk.  One particularly large tendril twists up the path behind him, terminating in his chest.
 
-Sammy, being both suspicious and incurious, decides it'd be best to **sever** whatever this thing is.  Beyond his understanding to even attempt such a thing, he nevertheless takes a crack at it, and against all odds he *succeeds*.  Sammy comes to in the forest outside Sellwood, lying inert on the cold ground, stunned into paralysis by excruciating pain.  His friends are all around him, but appear to be sleeping peacefully, free from pain.
+Sammy, being both suspicious and incurious, decides it'd be best to **sever** whatever this thing is.  Beyond his understanding to even attempt such a thing, he nevertheless takes a crack at it, and against all odds he *succeeds*.  He comes to in the forest outside Sellwood, lying inert on the cold ground, stunned into paralysis by excruciating pain.  His friends are all around him, but appear to be sleeping peacefully, free from any discomfort.
 
-At the side of the trail, he can make out a man standing bolt upright against a tree, seemingly pinned there by points of magnesium-white light.  Fluke's tiny form stands before the man, spitting and swearing angrily.  The man's legs are blackened, slowly turning to cinders and crumbling away as he burns like a wick.
+At the side of the trail, he can make out a man standing bolt upright against a tree, seemingly pinned there by points of magnesium-white light.  Fluke's tiny form stands before the man, shaking fists, spitting and swearing angrily.  The man's legs are blackened, slowly turning to cinders and crumbling away as he burns like a wick.
 
 In an incredible expenditure of willpower, Sammy manages to struggle to his feet, draw his pistol, and fire a spiteful bullet into Kingmaker's face.
 
