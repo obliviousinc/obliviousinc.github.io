@@ -52,7 +52,7 @@ Dewey tries to stop his truck and examine the turtle, but as if he were in an aw
 
 #### Albacore
 
-Albacore awakens seated in a classroom, unable to move anything but his eyes.  All around him, uniformed students sit motionless.  At the front of the class stands a tall man in a navy blue suit.  Light bends into a corona around the man, giving the impression of wings; his face is obscured by the hilt and cross-guard of a golden sword, which is suspended in front of him.  Its blade points downward along the length of the man's body, out of Albacore's field of vision, giving the disorienting impression that it extends (impossibly) to the center of the Earth.
+Albacore awakens seated in a classroom, unable to move anything but his eyes.  All around him, uniformed students sit motionless.  At the front of the class stands a tall man in a navy blue suit.  Light bends into a corona around the man, forming something like wings; his face is obscured by the hilt and cross-guard of a golden sword, which is suspended in front of him.  Its blade points downward along the length of the man's body, out of Albacore's field of vision, giving the disorienting impression that it extends (impossibly) to the center of the Earth.
 
 The man approaches, quizzing Albacore on the nature of skepticism and disbelief.  He seems halfway satisfied by the answers he's given, but ultimately the lesson boils down to one final commandment:  **write your name on the blackboard.**  Before he can comply, Albacore is forced to figure out how to budge himself from his seat.
 
