@@ -26,7 +26,7 @@ Oblivious Inc. collectively awakens from their supernal visions, three of them g
 
 ![Pain](/assets/img/pain.jpg)
 
-The slowly-burning gentleman currently pinned to a tree is named Kingmaker.  Fluke is incandescent with anger:  she knows what he did, and how irresponsible it was, and now she's making him pay for it.  The newly-awakened (and newly-Awakened) members of the party are less informed.
+The slowly-burning gentleman currently pinned to a tree is named Kingmaker.  He's largely unperturbed by the bullet Sammy fired at his head a moment ago, strangely enough, but the gunshot did get everyone's attention.  Fluke is incandescent with anger:  she knows what Kingmaker did, and how irresponsible it was, and now she's making him pay for it.  The newly-awakened (and newly-Awakened) members of the party are less informed.
 
 Sammy joins Fluke in the opinion that Kingmaker should be disposed of.  The rest of the group, however, begins trying to convince her to keep the man around.  Maybe he'd be useful?  Sammy, displeased with the flow of the conversation, limps silently off into the woods intending to steal the group's transportation and drive himself back to the alcohol; only when he realizes he's forgotten to steal Dewey's *keys* does he come slinking back.
 
