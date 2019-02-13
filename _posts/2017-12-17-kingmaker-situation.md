@@ -32,6 +32,8 @@ Sammy joins Fluke in the opinion that Kingmaker should be disposed of.  The rest
 
 It turns out Kingmaker believes he's able to "detect" promising mortals:  likely mages.  Fluke believes that's a load of crap.  Kingmaker haughtily presents himself as some sort of guru... until Fluke points out his progressively dwindling **leg** supply, at which point his attitude changes.
 
+![Kingmaker](/assets/img/npc/sm/king5.jpg)
+
 His intention was to force an Awakening in the members of the group.  Kingmaker was "scouring" their physical bodies, converting them into *raw mana* and causing them such overwhelming pain that (at least, the theory goes) they would either enter "supernatural panic mode" and unconsciously protect themselves... or die.  In which case, hey, free mana.
 
 Forcing mortals to Awaken is extremely bad form.  It's rude, of course, but also dangerous:  an Awakening can go very, very [wrong](https://whitewolf.fandom.com/wiki/Banishers).  And doing it with *mortal peril* can sometimes simply mean murder.  Kingmaker apparently makes a habit of this, and Fluke can't believe the local Consilium lets him get away with it.  This, combined with the fact that Kingmaker is some sort of bush-league mage (who seems not to have even noticed Fluke's presence until it was too late), brings her to the conclusion that there **is** no local Consilium, and this area is the mage equivalent of the wild west.
