@@ -17,3 +17,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * * *
 
 ## Session Experience Tally
+
+| Character | Player  | XP  | Bonus         | Arcane XP |
+|:--------- |:------- |:--- |:------------- |:--------- |
+| Sammy     | Drewbie | 4   |               | 4         |
+| Timmy     | Gnorlin | 4   | +2 (recap)    | 4         |
+| Albacore  | Liuv    | 4   | +1 (glass)    | 4         |
+| Dewey     | Sheil   | 4   |               | 4         |
